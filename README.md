@@ -60,7 +60,7 @@ npm run dev
 ```
 
 
-Open the app in your browser at http://localhost:3000 or as configured.
+Open the app in your browser at http://localhost:5173 or as configured.
 
 Enter your name and choose or create a chat room.
 
