@@ -17,15 +17,17 @@ A real-time web chat application built with modern web technologies. Users can j
 - **Real-time Communication:** Socket.IO
 - **Database:** MongoDB (optional)
 
-## 📦 Installation & Running Locally
 
-## FRONTEND PREVIEW OF THE APPLICATION:
+
+## 🎞️FRONTEND PREVIEW OF THE APPLICATION:
 (A) THE LOGIN PAGE!!
 ![image](https://github.com/user-attachments/assets/657c0ded-057d-4c61-ad06-71ea8cb7b68a)
 
 (B) THE MAIN PAGE!!
 ![image](https://github.com/user-attachments/assets/48d96840-3d40-431e-b156-3d9d7987730f)
 
+
+## 📦 Installation & Running Locally
 ### 1. Clone the Repository
 
 ```bash
