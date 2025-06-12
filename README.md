@@ -1,13 +1,5 @@
 # 💬 Web Chat Application
 
-## FRONTEND PREVIEW OFTHE APPLICATION:
-(A) THE LOGIN PAGE!!
-![image](https://github.com/user-attachments/assets/657c0ded-057d-4c61-ad06-71ea8cb7b68a)
-
-(B) THE MAIN PAGE!!
-![image](https://github.com/user-attachments/assets/48d96840-3d40-431e-b156-3d9d7987730f)
-
-
 A real-time web chat application built with modern web technologies. Users can join chat rooms, send instant messages, and communicate in real-time with others online.
 
 ## 🚀 Features
@@ -26,6 +18,13 @@ A real-time web chat application built with modern web technologies. Users can j
 - **Database:** MongoDB (optional)
 
 ## 📦 Installation & Running Locally
+
+## FRONTEND PREVIEW OF THE APPLICATION:
+(A) THE LOGIN PAGE!!
+![image](https://github.com/user-attachments/assets/657c0ded-057d-4c61-ad06-71ea8cb7b68a)
+
+(B) THE MAIN PAGE!!
+![image](https://github.com/user-attachments/assets/48d96840-3d40-431e-b156-3d9d7987730f)
 
 ### 1. Clone the Repository
 
